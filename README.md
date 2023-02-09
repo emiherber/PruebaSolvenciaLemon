@@ -1,5 +1,5 @@
 # Realizar Prueba de Solvencia Lemon Cash
-Google colab que permite realizar la prueba de solvencia de Lemon Cash.
+Google colaboratory que permite realizar la prueba de solvencia de Lemon Cash.
 
 Basado en el tutorial [Como hacer la PRUEBA de PASIVOS de LEMON!](https://www.youtube.com/watch?v=JQi2NWDCeLQ)
 
